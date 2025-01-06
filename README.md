@@ -8,7 +8,7 @@ Winning Logic: Automatically checks for win conditions and declares the winner o
 Classic Design: Minimalist, retro-inspired interface for a nostalgic feel.
 Responsive Layout: Works seamlessly on both desktop and mobile devices.
 🚀 Live Demo
-Play the game here: Tic-Tac-Toe Demo
+Play the game here: https://arnavrastogii.github.io/PRODIGY_WD_03/
 
 📂 Project Structure
 index.html: The main HTML file for the game.
